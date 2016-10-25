@@ -1,6 +1,6 @@
 {
   "appname": "Purchasing",
-  "ocscope": "",
+  "ocscope": "BuyerAdmin BuyerReader FullAccess",
   "clientid": "29261FC9-46D4-492A-9BA7-B797FD5B8064",
   "buyerid": "FM",
   "environment": "prod",
